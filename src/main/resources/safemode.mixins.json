@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nepnep.safemode.mixins",
+  "refmap": "mixins.safemode.refmap.json",
+  "client": [
+    "MixinPlayerController"
+  ]
+}
