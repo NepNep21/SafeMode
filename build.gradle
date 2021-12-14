@@ -70,7 +70,7 @@ mixin {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.5-36.2.0'
+    minecraft 'net.minecraftforge:forge:1.16.5-36.2.20'
     annotationProcessor "org.spongepowered:mixin:0.8.4:processor"
 }
 
